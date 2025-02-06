@@ -3,7 +3,7 @@ Proximate Finder : Location-Based Services for Essential Facilities
                               Start (Open site)
 •	The system begins at the website's homepage, where users choose between two options: User or Admin.
                                 
-                                Admin Workflow
+                                  Admin 
 If "Admin" is selected:
 •	The admin proceeds to the Login/Signup page.
 •	If valid credentials are provided:
